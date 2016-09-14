@@ -20,7 +20,7 @@ main() {
     message_buf sbuf;
     size_t buf_length;
 
-    key = 1234;
+    key = ftok("na peru mani", 0);
 
     (void) fprintf(stderr, "\nmsgget: Calling msgget(%#lx,\%#o)\n", key, msgflg);
     if ((msqid = msgget(key, msgflg )) < 0) {
@@ -33,7 +33,7 @@ main() {
     
     (void) fprintf(stderr,"msgget: msgget succeeded: msqid = %d\n", msqid);
     
-    (void) strcpy(sbuf.mtext, "Did you get this?");
+    (void) strcpy(sbuf.mtext, "Na peru mani ra bhai!");
     
     (void) fprintf(stderr,"msgget: msgget succeeded: msqid = %d\n", msqid);
     

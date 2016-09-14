@@ -27,7 +27,7 @@ main()
  *           * "name" 1234, which was created by
  *                * the server.
  *                     */
-    key = 1234;
+    key = ftok("na peru mani", 0);
 
     if ((msqid = msgget(key, 0666)) < 0) {
         perror("msgget");

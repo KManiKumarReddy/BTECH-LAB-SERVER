@@ -1,5 +1,6 @@
-drwxrwxr-x    2 6023     6025         4096 Sep 14 14:07 .
+drwxrwxr-x    2 6023     6025         4096 Sep 14 14:51 .
 drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 ..
--rwxrwxr-x    1 6023     6025         8859 Sep 14 13:54 a.out
--rw-rw-r--    1 6023     6025          846 Sep 14 13:47 recv.c
--rw-rw-r--    1 6023     6025         1197 Sep 14 13:51 send.c
+-rwxrwxr-x    1 6023     6025        10302 Sep 14 14:51 recv
+-rw-rw-r--    1 6023     6025          865 Sep 14 14:49 recv.c
+-rwxrwxr-x    1 6023     6025        11589 Sep 14 14:50 send
+-rw-rw-r--    1 6023     6025         1220 Sep 14 14:50 send.c
