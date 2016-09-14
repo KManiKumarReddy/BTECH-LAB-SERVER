@@ -1,0 +1,8 @@
+drwxrwxr-x    2 6023     6025         4096 Aug 03 15:34 .
+drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 ..
+-rwxrwxr-x    1 6023     6025        10081 Aug 03 15:34 cat
+-rw-rw-r--    1 6023     6025          367 Aug 03 14:17 cat.c
+-rwxrwxr-x    1 6023     6025         9986 Aug 03 15:34 cp
+-rw-rw-r--    1 6023     6025          449 Aug 03 14:17 cp.c
+-rwxrwxr-x    1 6023     6025        10321 Aug 03 15:34 tail
+-rw-rw-r--    1 6023     6025          635 Aug 03 15:05 tail.c

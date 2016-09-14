@@ -1,0 +1,8 @@
+drwx------    5 6023     6025         4096 Sep 14 14:06 .
+drwxr-xr-x 4631 0        0          180224 Aug 04 13:57 ..
+-rw-rw-r--    1 6023     6025          384 Aug 17 15:21 .bash_logout
+-rw-rw-r--    1 6023     6025          193 Aug 17 15:34 .bash_profile
+-rw-rw-r--    1 6023     6025          231 Aug 17 15:36 .bashrc
+drwxr-xr-x    3 6023     6025         4096 Jan 06  2015 .local
+drwxrwxr-x   12 6023     6025         4096 Mar 10  2015 java
+drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 lp

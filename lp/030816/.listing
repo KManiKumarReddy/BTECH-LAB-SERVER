@@ -1,0 +1,4 @@
+drwxrwxr-x    2 6023     6025         4096 Aug 17 14:16 .
+drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 ..
+-rwxrwxr-x    1 6023     6025        11648 Aug 03 15:29 ls
+-rw-rw-r--    1 6023     6025         1417 Aug 03 15:31 ls.c

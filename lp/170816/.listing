@@ -1,0 +1,7 @@
+drwxrwxr-x    2 6023     6025         4096 Aug 31 15:55 .
+drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 ..
+-rwxrwxr-x    1 6023     6025         9007 Aug 31 13:41 a.out
+-rw-rw-r--    1 6023     6025         1609 Aug 31 15:35 ipc_stu.c
+-rw-rw-r--    1 6023     6025          659 Aug 17 14:58 parch.c
+-rw-rw-r--    1 6023     6025          807 Aug 31 13:58 pipe.c
+-rw-rw-r--    1 6023     6025         1085 Aug 17 15:06 piperev.c

@@ -1,0 +1,4 @@
+ write a program to declare a class called student with id and marks as its members calculate class average fro a class of 10 students(create array of objects and read the values from the user)
+
+create a class calle person with two instance variables id an age
+create 2 person objects and print the id of person who is elder among the two
