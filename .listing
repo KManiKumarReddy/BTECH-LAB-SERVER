@@ -1,9 +1,12 @@
-drwx------    5 6023     6025         4096 Sep 14 14:50 .
-drwxr-xr-x 4631 0        0          180224 Aug 04 13:57 ..
+drwx------    6 6023     6025         4096 Sep 28 14:57 .
+drwxr-xr-x 4632 0        0          180224 Sep 22 13:47 ..
 -rw-rw-r--    1 6023     6025          384 Aug 17 15:21 .bash_logout
--rw-rw-r--    1 6023     6025          193 Aug 17 15:34 .bash_profile
 -rw-rw-r--    1 6023     6025          231 Aug 17 15:36 .bashrc
 drwxr-xr-x    3 6023     6025         4096 Jan 06  2015 .local
--rw-------    1 6023     6025         1153 Sep 14 14:50 .viminfo
+-rwxrwxr-x    1 6023     6025         8500 Sep 19 13:53 a.out
+drwxrwxr-x   10 6023     6025         4096 Sep 14 15:48 cn
+-rw-rw-r--    1 6023     6025           55 Sep 19 13:53 hi.c
 drwxrwxr-x   12 6023     6025         4096 Mar 10  2015 java
+-rw-r--r--    1 6023     6025            0 Sep 14 15:43 john-1.8.0.tar.gz
 drwxrwxr-x    6 6023     6025         4096 Sep 14 13:47 lp
+-rw-r--r--    1 6023     6025       291501 Sep 28 14:57 passwd

@@ -1,0 +1,6 @@
+drwxrwxr-x    2 54455    54457        4096 Jul 30  2015 .
+drwxrwxr-x   10 54455    54457        4096 Oct 01  2015 ..
+-rwxrwxr-x    1 54455    54457        8669 Jul 30  2015 a.out
+-rw-rw-r--    1 54455    54457         788 Jul 30  2015 bitstuff.c
+-rw-rw-r--    1 54455    54457         985 Jul 30  2015 bitstuff1.c
+-rw-rw-r--    1 54455    54457         715 Jul 30  2015 unstuff.c

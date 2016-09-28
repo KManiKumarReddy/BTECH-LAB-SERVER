@@ -33,9 +33,7 @@ main() {
     
     (void) fprintf(stderr,"msgget: msgget succeeded: msqid = %d\n", msqid);
     
-    (void) strcpy(sbuf.mtext, "Na peru mani ra bhai!");
-    
-    (void) fprintf(stderr,"msgget: msgget succeeded: msqid = %d\n", msqid);
+    scanf("%s", sbuf.mtext);
     
     buf_length = strlen(sbuf.mtext) + 1 ;
    

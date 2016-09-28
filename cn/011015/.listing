@@ -1,0 +1,6 @@
+drwxrwxr-x    2 54455    54457        4096 Oct 01  2015 .
+drwxrwxr-x   10 54455    54457        4096 Oct 01  2015 ..
+-rwxrwxr-x    1 54455    54457        8450 Oct 01  2015 a.out
+-rw-rw-r--    1 54455    54457        1177 Oct 01  2015 des.c
+-rw-rw-r--    1 54455    54457          69 Oct 01  2015 n1.c
+-rw-rw-r--    1 54455    54457         250 Oct 01  2015 test.c
